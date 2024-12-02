@@ -1,5 +1,6 @@
 package main
 
 func main() {
-println("hello world")
+	day1Part1()
+	day1Part2()
 }
